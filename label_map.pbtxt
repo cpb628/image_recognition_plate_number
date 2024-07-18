@@ -1,0 +1,99 @@
+item {
+  id: 1
+  name: 'private_plate'
+}
+
+item {
+  id: 2
+  name: 'public_utility_plate'
+}
+
+item {
+  id: 3
+  name: 'government_plate'
+}
+
+item {
+  id: 4
+  name: 'motorcycle_plate'
+}
+
+item {
+  id: 5
+  name: 'diplomatic_plate'
+}
+
+item {
+  id: 6
+  name: 'trailer_plate'
+}
+
+item {
+  id: 7
+  name: 'vintage_plate'
+}
+
+item {
+  id: 8
+  name: 'temporary_plate'
+}
+
+item {
+  id: 9
+  name: 'dealer_plate'
+}
+
+item {
+  id: 10
+  name: 'conductor_plate'
+}
+
+item {
+  id: 11
+  name: 'bus'
+}
+
+item {
+  id: 12
+  name: 'car'
+}
+
+item {
+  id: 13
+  name: 'truck'
+}
+
+item {
+  id: 14
+  name: 'motorcycle'
+}
+
+item {
+  id: 15
+  name: 'bicycle'
+}
+
+item {
+  id: 16
+  name: 'pedestrian'
+}
+
+item {
+  id: 17
+  name: 'traffic_light'
+}
+
+item {
+  id: 18
+  name: 'stop_sign'
+}
+
+item {
+  id: 19
+  name: 'traffic_cone'
+}
+
+item {
+  id: 20
+  name: 'barrier'
+}
